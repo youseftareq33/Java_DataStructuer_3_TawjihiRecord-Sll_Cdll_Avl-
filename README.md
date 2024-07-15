@@ -8,3 +8,5 @@ and the second tree to store the average ,also every node in the second tree has
 on there average. 
 
 The project includes multiple operations such as insertion, deletion, and searching,.....itc.
+
+## Note that there is app_photo folder. 
