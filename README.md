@@ -1,3 +1,5 @@
+# Tawjihi Record Using Data Structure (Single LinkedList, Circular Double Linkedlist, AVL Tree)
+
 This project focuses on Tawjihi students in the West Bank, and involves working with data(using Singlelinkedlist and CircularDoubleLinkedlist and AvlTree) such
 as student numbers, branches, and grades.
 
