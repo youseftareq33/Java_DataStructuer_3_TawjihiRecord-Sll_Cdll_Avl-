@@ -9,4 +9,4 @@ on there average.
 
 The project includes multiple operations such as insertion, deletion, and searching,.....itc.
 
-## Note that there is app_photo folder
+## Note that there is app_photo folder.
